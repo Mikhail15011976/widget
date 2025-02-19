@@ -1,4 +1,4 @@
-# Goblin Game
+# Widget
 
 [![Widget]](https://mikhail15011976.github.io/widget/)
 
